@@ -8,7 +8,7 @@ cd fibonacci-app-nodejs
 Install dependencies:
 npm install
 
-Running the Application
+Running the Application:
 npm start
 
 The application will be running at http://localhost:3000.
